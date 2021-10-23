@@ -57,4 +57,4 @@ define('SITEURL', 'http://localhost/task-manager/'); //Update the home URL of th
 ## Follow Me
 1. LinkedIn - [pruthvirajdhongade](https://www.linkedin.com/in/pruthviraj-dhongade-79468621b/)
 2. Instagram - [@Pruthviraj_D](https://www.instagram.com/pruthviraj_dhongade)
-3. tTwitter - [@dhongade_raj](https://twitter.com/dhongade_raj)
+3. Twitter - [@dhongade_raj](https://twitter.com/dhongade_raj)
