@@ -1,0 +1,123 @@
+/* Author - Pruthviraj Dhongade */
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: verdana;
+}
+
+.wrapper{
+    width:70%;
+    margin: 0 auto;
+    padding: 5%;
+}
+
+body{
+  background-color: #EADEB8; 
+}
+
+h1{
+    color: #3867d6;
+    margin-bottom: 2%;
+}
+
+h2{
+  margin: 2% 0;
+}
+
+.menu{
+    margin-bottom: 2%;
+}
+
+.menu a{
+    font-weight: bold;
+    margin-right: 1%;
+    color: grey;
+    text-decoration: none;
+}
+
+.menu a:hover{
+  color: black;
+  text-decoration: underline;
+}
+
+.btn-primary{
+  background-color: #26de81;
+  padding: 5px;
+  font-weight: bold;
+  text-decoration: none;
+  color: black;
+  border-radius: 8%;
+}
+
+.btn-lg{
+  width: 60%;
+}
+
+.btn-secondary{
+  background-color: #778ca3;
+  padding: 5px;
+  font-weight: bold;
+  text-decoration: none;
+  color: white;
+  border-radius: 8%;
+}
+
+.btn4 {
+  background-color: #EADEB8;
+  color: black;
+  margin-right: 10px;
+  padding: 5px;
+  text-decoration: none;
+  border: 2px solid #f44336;
+}
+
+.btn4:hover {
+  background-color: #f44336;
+  color: white;
+}
+
+.btn3 {
+  background-color: #EADEB8;
+  color: black;
+  margin-right: 10px;
+  padding: 5px;
+  text-decoration: none;
+  border: 2px solid #555555;
+}
+
+.btn3:hover {
+  background-color: #555555;
+  color: white;
+}
+
+.btn-primary:hover{
+    background-color: #20bf6b;
+}
+
+.btn-secondary:hover{
+    background-color: #4b6584;
+}
+
+.table-full{
+  width: 100%;
+}
+
+.table-half{
+  width: 40%;
+}
+
+table tr th{
+    text-align: left;
+    border-bottom: 1px solid black;
+    padding: 1%;
+    padding-top: 3%;
+}
+
+table tr td{
+  padding: 1%;
+}
+
+.form-text{
+  width: 200px;
+}
